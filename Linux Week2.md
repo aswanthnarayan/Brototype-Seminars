@@ -12,18 +12,26 @@ Now, let's talk about Linux distributions, or distros. Linux has an open-source 
 
 Next, let's discuss the perks of Linux:
 
-**Linux is free** - This makes it ideal for cloud environments, as it can be used without cost.
-**Performance** - Some Linux distros can easily run on old laptops or PCs, which is why IoT devices also use Linux.
-**Stability** - Linux is one of the most stable operating systems available.
-**Transparency and Privacy** - As I mentioned, Linux's architecture is open source, allowing us to adjust our privacy settings. We can decide whether to share our data with specific software.
-**C**ustomization** - With hundreds of distros, all are custom-built, offering a variety of options to suit different needs.
-**Command Line Interface** - Linux allows us to perform complex tasks easily through the command line.
-**Portability** - We can carry our complete Linux configuration on a simple USB drive.
-**Learning Opportunities** - Linux provides tremendous learning opportunities for those who want to study it.
-**Community Support** - Linux has one of the best communities for support and collaboration.
+1. **Linux is free** - This makes it ideal for cloud environments, as it can be used without cost.
 
-We can also pursue certifications in Linux to advance our careers. Some of the prominent certifications include:
+2. **Performance** - Some Linux distros can easily run on old laptops or PCs, which is why IoT devices also use Linux.
 
-**Red Hat Certified Engineer (RHCE)**
-**CompTIA Linux+**
-**Oracle Linux Certification**
+3. **Stability** - Linux is one of the most stable operating systems available.
+
+4. **Transparency and Privacy** - As I mentioned, Linux's architecture is open source, allowing us to adjust our privacy settings. We can decide whether to share our data with specific software.
+
+5. **Customization** - With hundreds of distros, all are custom-built, offering a variety of options to suit different needs.
+
+6. **Command Line Interface** - Linux allows us to perform complex tasks easily through the command line.
+
+7. **Portability** - We can carry our complete Linux configuration on a simple USB drive.
+
+8. **Learning Opportunities** - Linux provides tremendous learning opportunities for those who want to study it.
+
+9. **Community Support** - Linux has one of the best communities for support and collaboration.
+
+10. We can also pursue certifications in Linux to advance our careers. Some of the prominent certifications include:
+
+1. Red Hat Certified Engineer (RHCE)
+2. CompTIA Linux+
+3. Oracle Linux Certification
